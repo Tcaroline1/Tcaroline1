@@ -56,19 +56,22 @@
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Tcaroline1/Setting-up-a-virtualized-cybersecurity-environment.git) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Tcaroline1/Identity-and-Access-Management-IAM-Project.git) |
+| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](https://github.com/Tcaroline1/AWS-IAM-Cloud-security-project.git) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Tcaroline1/Creating-Security-Policy.git) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Tcaroline1/Vulnerability-Assessment-Scan-Report-on-windows-machines-using-Nmap-Nessus.git) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Tcaroline1/Splunk-Alert-project.git) |
+| 07-wireshark-project-Report | TCP-3-Way-Handshake Stealth, Decoy, and  Time fragmentationScans  | [View Repo](https://github.com/Tcaroline1/Wireshark-Project-Report-TCP-3-Way-Handshake-Stealth-Scan-Analysis.git) |
+| 08-active-passive-reconnaissance | Domain and endpoints with Nmap, Spiderfoot, OSINT Framework | [View Repo](https://github.com/Tcaroline1/Active-and-Passive-Reconnaissance-scan-reports.git) |
+| 09-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/Tcaroline1/Risk-Assessment-Report.git) |
+| 10-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Tcaroline1/Threat-Hunting-in-the-Healthcare-Sector-using-MITRE-ATT-CK.git) |
+| 11-threat-modelling | OWASP Dragon tool| [View Repo](https://github.com/Tcaroline1/Threat-Modelling-OWASP-Dragon-Tools.git) |
+| 12-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Tcaroline1/Phishing-Simulation-Report.git) |
+| 13-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Tcaroline1/Phishing-Email-Analysis-Report.git) |
+| 14-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 15-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 16-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
 
 ---
